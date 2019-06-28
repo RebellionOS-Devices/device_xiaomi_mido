@@ -1,0 +1,12 @@
+[
+  {
+    "repository":  "LuvMido/android_kernel_xiaomi_msm8953",
+    "target_path": "kernel/xiaomi/msm8953",
+    "branch":      "pie"
+  },
+  {
+    "repository":  "rebellionos-devices/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch":      "pie"
+  }
+]
